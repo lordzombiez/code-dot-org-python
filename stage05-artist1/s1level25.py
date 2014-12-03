@@ -12,6 +12,14 @@ artist = codestudio.load('s1level25')
 a = artist
 
 artist.color = 'red'
+artist.forward(100)
+artist.rt(90)
+artist.forward(100)
+artist.rt(90)
+artist.forward(100)
+artist.rt(90)
+artist.forward(100)
+
 
 # ???
 
